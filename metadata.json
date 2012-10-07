@@ -1,7 +1,7 @@
 {
-"uuid": "window-open-animation-slide-in@mengzhuo.org",
+"uuid": "window-fade-in@suhy17.gmail.com",
 "shell-version": ["3.4","3.4.1","3.6"],
-"name": "Window Slide In",
-"url": "https://github.com/mengzhuo/gnome-shell-window-open-animation-slide-in",
-"description": "Offer a Slide-In-Amination effect while openning an window"
+"name": "Window Fade In",
+"url": "https://github.com/suhy/gnome-shell-window-open-animation-fade-in",
+"description": "Extension provides nicely window animation when its created"
 }
