@@ -7,7 +7,7 @@ const ExtensionUtils = imports.misc.extensionUtils;
 
 
 const CONLICT_UUID = ["window-fade-in@suhy17.gmail.com"];
-const WINDOW_ANIMATION_TIME = 0.2; // I don't know why, but 0.2 must be (in another value after scaling window is blu)
+const WINDOW_ANIMATION_TIME = 0.2; // I don't know why, but 0.2 must be (in another value after scaling window is blured)
 const WINDOW_SCALE = 0.30;
 
 const FadeInForWindow = new Lang.Class({
