@@ -1,6 +1,6 @@
 {
 "uuid": "window-fade-in@suhy17.gmail.com",
-"shell-version": ["3.4","3.4.1","3.6"],
+"shell-version": ["3.4","3.4.1","3.5.4","3.6"],
 "name": "Window Fade In",
 "url": "https://github.com/suhy/gnome-shell-window-open-animation-fade-in",
 "description": "Extension provides nicely window animation when its created"
